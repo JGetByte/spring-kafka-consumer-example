@@ -1,1 +1,1 @@
-Spring-boot Kafka Consumer Example
+spring-kafka-consumer-example
